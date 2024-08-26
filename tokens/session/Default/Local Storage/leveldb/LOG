@@ -1,0 +1,9 @@
+2024/08/26-16:50:33.278 bb8 Reusing MANIFEST C:\Users\thales\meu-projeto-wppconnect\tokens\session\Default\Local Storage\leveldb/MANIFEST-000001
+2024/08/26-16:50:33.289 bb8 Recovering log #3
+2024/08/26-16:50:33.295 bb8 Reusing old log C:\Users\thales\meu-projeto-wppconnect\tokens\session\Default\Local Storage\leveldb/000003.log 
+2024/08/26-16:52:33.508 3450 Level-0 table #5: started
+2024/08/26-16:52:33.748 3450 Level-0 table #5: 19382 bytes OK
+2024/08/26-16:52:33.779 3450 Delete type=0 #3
+2024/08/26-18:02:33.502 3450 Level-0 table #7: started
+2024/08/26-18:02:33.511 3450 Level-0 table #7: 11452 bytes OK
+2024/08/26-18:02:33.519 3450 Delete type=0 #4
